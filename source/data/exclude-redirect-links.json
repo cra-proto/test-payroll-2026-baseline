@@ -1,0 +1,50 @@
+[
+  {
+    "origin": "https://www.canada.ca/en.html",
+    "destination": "/test-payroll-2026-baseline/en.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/services/taxes.html",
+    "destination": "/test-payroll-2026-baseline/en/services/taxes.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries/receiving-payroll.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries/receiving-payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/determine-relationship-employer-payer.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/determine-relationship-employer-payer.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/calculating-deductions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/remitting-source-deductions.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/remitting-source-deductions.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/file-information-returns-slip-summaries.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-compliance-enforcement.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/payroll-compliance-enforcement.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/whats-new-payroll.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/whats-new-payroll.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/open-manage-payroll-account.html"
+  },
+  {
+    "origin": "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee.html",
+    "destination": "/test-payroll-2026-baseline/en/revenue-agency/services/tax/businesses/topics/payroll/set-up-new-employee.html"
+  }
+]
